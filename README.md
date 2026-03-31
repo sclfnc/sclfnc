@@ -1,7 +1,7 @@
 > *"I'm a pessimist because of intelligence, but an optimist because of will."*  
 > — Antonio Gramsci
 
-# Hi, I'm Francesco 👋
+# Hi, I'm Francesco
 
 🎓 MSc student in *Data Science & Business Informatics* at the *University of Pisa*.
 
