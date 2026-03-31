@@ -1,16 +1,31 @@
-## Hi there 👋
+> *"I'm a pessimist because of intelligence, but an optimist because of will."*  
+> — Antonio Gramsci
 
-<!--
-**sclfnc/sclfnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Francesco 👋
 
-Here are some ideas to get you started:
+🎓 MSc student in *Data Science & Business Informatics* at the *University of Pisa*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐧 Linux user, FOSS enthusiast.
+
+### Interests
+
+- 🔓 Open source
+- ⚡ Energy communities
+- 📊 Data science
+- 🌍 Sociology & current affairs
+
+### Tools
+
+- 🔵 Julia
+- ⚙️ C / C++
+- 📝 LaTeX
+- 🐍 Python
+
+---
+
+If data can inform real-world decisions, I can inform you that there are biases. 
+
+I don't talk much — but when I do, I've thought about it at least twice.   
+*(This also explains the few repositories and the near-zero social media presence.)*
+
+Code as a means, not an end. The real problem is always out there. Challenge me with goals, not with how to reach them. 
