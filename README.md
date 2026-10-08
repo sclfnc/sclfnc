@@ -26,6 +26,6 @@
 If data can inform real-world decisions, I can inform you that there are biases. 
 
 I don't talk much — but when I do, I've thought about it at least twice.   
-*(This also explains the few repositories and the near-zero social media presence.)*
+*(This also explains the near-zero social media presence.)*
 
 Code as a means, not an end. The real problem is always out there. Challenge me with goals, not with how to reach them. 
